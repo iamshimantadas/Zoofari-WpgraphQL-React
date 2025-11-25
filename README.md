@@ -4,9 +4,12 @@ A modern GraphQL-powered React.js CMS using WordPress + WPGraphQL as the backend
 ---
 
 ## 📽️ Demo Video  
-A demo video is included in the repository for previewing the project functionality. 
-<br><br>
-<video src="video.mp4" controls width="700"></video>
+A demo video is included in the repository for previewing the project functionality.  
+<br>
+
+### ▶️ YouTube Preview (Click to Play)
+[![Zoofari Demo](https://img.youtube.com/vi/hmf40VguOqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hmf40VguOqE)
+
 
 
 ---
