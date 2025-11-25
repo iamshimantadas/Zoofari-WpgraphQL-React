@@ -1,5 +1,5 @@
 # Zoofari – WPGraphQL Powered React CMS  
-A modern GraphQL-powered React.js CMS using WordPress + WPGraphQL as the backend.
+A modern GraphQL-powered React.js CMS using WordPress + WPGraphQL as the backend. Dynamic a HTML theme to react theme and for dynamic it's pages we used wpgraphql plugin which uses graphql as quqery language and wordpress cms underthehood. 
 
 ---
 
